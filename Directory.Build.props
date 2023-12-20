@@ -1,0 +1,12 @@
+<Project>
+
+    <PropertyGroup>
+        <Tfm>net8.0</Tfm>
+        <GlobalNamespacePrefix>My.Demo.Namespace</GlobalNamespacePrefix>
+        <GlobalAssemblyNamePrefix>My.Demo.Namespace</GlobalAssemblyNamePrefix>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <TargetFramework>$(Tfm)</TargetFramework>
+    </PropertyGroup>
+</Project>
